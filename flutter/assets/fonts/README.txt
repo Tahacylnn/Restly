@@ -1,0 +1,1 @@
+Place Inter fonts here if you want custom typography. The app will fallback to system fonts if not present.
