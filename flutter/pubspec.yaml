@@ -1,0 +1,27 @@
+name: restly_app
+description: Restly mobile app (complete starter)
+publish_to: 'none'
+version: 0.0.1
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  web_socket_channel: ^2.5.0
+  provider: ^6.0.5
+  flutter_local_notifications: ^12.0.4
+  shared_preferences: ^2.1.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700

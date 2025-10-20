@@ -1,0 +1,1 @@
+Replace this file with your logo at assets/logo.png (recommended 512x512 PNG).
